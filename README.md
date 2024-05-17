@@ -1,7 +1,7 @@
 
 # nn_models API
 
-This is a RESTful API built with FastAPI for a social media application. It provides endpoints for user registration, user management, post creation, and post interactions like liking, commenting, and reposting.
+This is a RESTful API built with FastAPI for a Neural network.
 
 ## Installation
 
